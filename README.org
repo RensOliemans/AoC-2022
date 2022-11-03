@@ -1,0 +1,14 @@
+#+title: Advent of Code 2022
+#+author: Rens Oliemans
+#+date: <2022-11-03 do>
+
+I'm using AoC 2022 to get more familiar with Org's literate
+programming and Common Lisp.
+
+#+name: hello-world
+#+begin_src lisp
+  (princ "Hello World!")
+#+end_src
+
+#+RESULTS: hello-world
+: Hello World!
